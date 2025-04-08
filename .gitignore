@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.idea/
+deploy/
+output/
+dist/
+.vscode/
+.eslintcache
+.cache/
+pnpm-out/
